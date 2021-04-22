@@ -11,7 +11,7 @@
     },
     "params": {
         "accountStartNonce": "0x0",
-        "chainID": "0x3edb7",
+        "chainID": "0x36d0d",
         "eip140Transition": "0x0",
         "eip145Transition": "0x0",
         "eip150Transition": "0x0",
@@ -33,12 +33,13 @@
         "eip2028Transition": "0x0",
         "eip2929Transition": "0x0",
         "eip2930Transition": "0x0",
+        "eip3074Transition": "0x0",
         "gasLimitBoundDivisor": "0x400",
         "maxCodeSize": "0x6000",
         "maxCodeSizeTransition": "0x0",
         "maximumExtraDataSize": "0xffff",
         "minGasLimit": "0x1388",
-        "networkID": "0x3edb7"
+        "networkID": "0x36d0d"
     },
     "genesis": {
         "author": "0x0000000000000000000000000000000000000000",
@@ -55,7 +56,7 @@
         }
     },
     "nodes": [
-        "enode://ae79efdc8946d9c1f38c44d1a5377be7f99b81ce19a97d35eaa13e56e23c74c53a0ab88b4014da77472cdea6a53cc39568cd639945641526b5fdd64b59e172b5@144.91.103.6:12001"
+        "enode://b5b438768a40745b5ebebe0f211ef033b1311d0787d14209fb1f28635b490a67f47fe356ebae42ed02cd5cef754ce10894d6ae0827d6c87523433a02e35f1041@quilt.link:12001"
     ],
     "accounts": {
         "0xF513F2f49b43B0E39Ae3230950C0731d8992D7E9": { "balance": "10000000000000000000000000" },
