@@ -1,6 +1,6 @@
 {
-    "name": "Baikal Devnet",
-    "dataDir": "baikal",
+    "name": "Puxi Devnet",
+    "dataDir": "puxi",
     "engine": {
         "clique": {
             "params": {
