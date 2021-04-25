@@ -8,7 +8,7 @@ Puxi (浦西) Testnet
 ```bash
 $ geth init --datadir ~/.ethereum/puxi ./geth/genesis.json
 $ cp ./geth/static-nodes.json ~/.ethereum/puxi/geth/
-$ geth --datadir ~/.ethereum/puxi --networkid 257463 --nodiscover --ethstats="{NAME}:puxinet@puxi.quilt.link"
+$ geth --datadir ~/.ethereum/puxi --networkid 257463 --nodiscover --ethstats="yournode:puxinet@puxi.quilt.link"
 ```
 
 ## Starting OpenEthereum (`parity`)
