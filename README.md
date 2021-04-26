@@ -7,6 +7,7 @@ EIP-3074.
 ## Helpful links
 * ethstats - https://puxi.quilt.link
 * remix - https://remix.puxi.quilt.link
+* signer cli - https://github.com/quilt/dahe
 
 ## Starting Geth
 
@@ -15,7 +16,7 @@ EIP-3074.
 ```bash
 $ geth init --datadir ~/.ethereum/puxi ./geth/genesis.json
 $ cp ./geth/static-nodes.json ~/.ethereum/puxi/geth/
-$ geth --datadir ~/.ethereum/puxi --networkid 257463 --nodiscover --ethstats="yournode:puxinet@puxi.quilt.link"
+$ geth --datadir ~/.ethereum/puxi --networkid 224525 --nodiscover --ethstats="yournode:puxinet@puxi.quilt.link"
 ```
 
 ## Starting OpenEthereum
