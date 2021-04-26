@@ -1,6 +1,13 @@
 Puxi (浦西) Testnet
 ==============
 
+The Puxi testnet is a long-running network for developers to experiment with
+EIP-3074.
+
+## Helpful links
+* ethstats - https://puxi.quilt.link
+* remix - https://remix.puxi.quilt.link
+
 ## Starting Geth
 
 [Source](https://github.com/quilt/go-ethereum/tree/eip-3074)
@@ -11,7 +18,7 @@ $ cp ./geth/static-nodes.json ~/.ethereum/puxi/geth/
 $ geth --datadir ~/.ethereum/puxi --networkid 257463 --nodiscover --ethstats="yournode:puxinet@puxi.quilt.link"
 ```
 
-## Starting OpenEthereum (`parity`)
+## Starting OpenEthereum
 
 [Source](https://github.com/quilt/openethereum/tree/eip-3074)
 
